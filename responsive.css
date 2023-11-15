@@ -82,6 +82,23 @@
         margin-top: 35px;
     }
 
+    .main{
+        margin-top: 55px;
+    }
+    .search-icon {
+        width: 20px !important;
+    }
+
+    .car-info{
+        padding: 30px !important;
+    }
+
+    .create-request{
+        width: 70% !important;
+    }
+
+    
+
     
 }
 
